@@ -12,11 +12,12 @@ $ git clone https://github.com/AAdewunmi/Monthly_Temperatures.git
 $ cd Monthly_Temperatures
 ```
 ### Console output 
-```sh
-* 4 week temperatures 
+
+## 4 week temperatures 
+
+
 ![Image description](src/ScreenshotTemp.png)
-```
-```sh
-* 1 week / 1 day temperatures 
-![Image description](src/ScreenshotWDT.pngg)
-```
+
+## 1 week / 1 day temperatures 
+
+![Image description](src/ScreenshotWDT.png)
